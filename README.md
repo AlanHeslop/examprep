@@ -84,6 +84,14 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 }
 ```
 
+# mermaid
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+```
+
+
 ### collapsed html
 
 <details>
