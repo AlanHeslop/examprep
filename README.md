@@ -93,6 +93,16 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 This is the copy for the collapsed text.
 </details>
 
+
+> [!NOTE]
+> A note
+
+> [!IMPORTANT]
+> Important
+
+> [!WARNING]
+> Warning
+
 ### Footnote
 
 Here's a sentence with a footnote. [^1]
