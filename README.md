@@ -89,6 +89,7 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 graph TD;
     A-->B;
     A-->C;
+    B-->D;
 ```
 
 
